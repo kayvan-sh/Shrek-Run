@@ -1,13 +1,13 @@
-# Shrek-Run 
-**Download and play**\
-Shrek run is a simple android game that has nothing to be fun . so you can [download it](https://) and play !\
 
-**Change Log**\
-*• 1.3.0*\
+# Download and play
+Shrek run is a simple android game that has nothing to be fun . so you can [download it](https://) and play !
+
+# Change Log
+**• 1.3.0**
 - Added Musics
 - Added new Characters
 - Now your Record will be saved !
-- Background and stability fixs \
+- Background and stability fixs 
 
-*• 1.2.8*
-- The first version (Beta) !\
+**• 1.2.8**
+- The first version (Beta) !
