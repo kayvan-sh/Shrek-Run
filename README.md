@@ -7,6 +7,7 @@ Shrek run is a simple Android game that has nothing to be fun . so you can [down
 **Characters**
 - Among Us Skin with customable colors 
 - Kaka Sangi Skin with adinational styles 
+- and More ...
 
 **Backgrounds**
 - more backgrounds coming with next Update 
