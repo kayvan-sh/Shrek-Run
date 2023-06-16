@@ -1,16 +1,13 @@
 
 # Download and play
-Shrek run is a simple Android game that has nothing to be fun . so you can [download the last version](https://drive.google.com/file/d/1EAGkyeK7zyzw6gC3DMmWWzRvT5b6wlaY/view?usp=drivesdk) and play !
+Shrek run new version is now available! shrek version 2 with new features is here ! ! You can [download the last version](https://drive.google.com/file/d/1EAGkyeK7zyzw6gC3DMmWWzRvT5b6wlaY/view?usp=drivesdk) and play !
 
-# Features in next Update 
+# New features in version 2.0
 
 **Characters**
-- Among Us Skin with customable colors 
-- Kaka Sangi Skin with adinational styles 
-- and More ...
+- Among Us Skin with it music 
+- Shibidi toilet skin with new song
 
-**Backgrounds**
-- more backgrounds coming with next Update 
 
 **Leader Board**
 - leader boards maybe cant be available for next update but I will try to add it
