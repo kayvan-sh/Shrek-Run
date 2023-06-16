@@ -20,6 +20,11 @@ Shrek run new version is now available! shrek version 2 with new features is her
 
 
 # Change Log
+
+**• 2.0**
+- New characters (skibidi toilet,amongus)
+- Shrek run leader and online server 
+- Design and bugs fix 
 **• 1.3.0**
 - Added Musics
 - Added new Characters
