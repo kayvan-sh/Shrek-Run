@@ -3,7 +3,7 @@
 Shrek run new version is now available! shrek version 2 with new features is here ! You can [download the last version](https://drive.google.com/file/d/1EAGkyeK7zyzw6gC3DMmWWzRvT5b6wlaY/view?usp=drivesdk) and play !
 
 # Notes 
-- new leader board and online mode server isnt very stable and its recommended to play offline and when you want to see leader bord a check for a update you play online mode . For this reason if you have trouble entering game when online you can close game and open again to improve speed and stability . I try to make it stabler in next updated .
+- New leader board and online mode server isnt very stable and its recommended to play offline and when you want to see leader board and check for a update play online mode . For this reason if you have trouble entering game in online mode, you can close game and open again to improve speed and stability . I try to make it stabler in next updates .
 
 # New features in version 2.0
 
@@ -25,6 +25,7 @@ Shrek run new version is now available! shrek version 2 with new features is her
 - New characters (skibidi toilet,amongus)
 - Shrek run leader and online server 
 - Design and bugs fix 
+
 **• 1.3.0**
 - Added Musics
 - Added new Characters
