@@ -1,11 +1,17 @@
 
 # Download and play
-Shrek run new version is now available! shrek version 2.1 with new features is here ! You can [download Shrek Run version 2.1](https://drive.google.com/file/d/1caDnkSYFQu8MKFjO2JeLoAe3-7Egc7OV/view?usp=drivesdk) and enjoy!
+Shrek run new version is now available! shrek version 3.0 with new features like new leaderboard and new skin is here ! You can [download Shrek Run version 3.0](https://drive.google.com/file/d/1caDnkSYFQu8MKFjO2JeLoAe3-7Egc7OV/view?usp=drivesdk) and enjoy !
 
 # Notes 
-- New leader board and online mode server isnt very stable and its recommended to play offline and when you want to see leader board and check for a update play online mode . For this reason if you have trouble entering game in online mode, you can close game and open again to improve speed and stability . I try to make it stabler in next updates .
+- The biggest part of a game is the community of that , I mean you ! You can help Shrek Run by send me feedback and tell me bugs you found ! Thanks 👍
 
 # Change Log
+**• 3.0**
+- Redeeming : you can get shrekial with codes from Kayvan !
+- New King of Shrek Run : now you can see 3 Top persons in Leader board instead of King of Shrek Run
+- New skin from Minecraft! watch out your self !
+- From now Shrek Run has Seasons ! you can read more from leaderboard in-game page !
+
 **• 2.1**
 - bugs fixed
 - new settings (enable/disable music)
