@@ -1,6 +1,6 @@
 
 # Download and play
-Download last version of the Shrel Run game! You can [download Shrek Run version 3.0](https://drive.google.com/file/d/1qdRqrzSH1C3bTHOYqDZ3ex8EArSe7Er7/view?usp=drivesdk) and enjoy !
+Download last version of the Shrek Run ! You can [download Shrek Run version 3.0](https://drive.google.com/file/d/1qdRqrzSH1C3bTHOYqDZ3ex8EArSe7Er7/view?usp=drivesdk) and enjoy !
 
 # Notes 
 - The biggest part of a game is the community of that , I mean you ! You can help Shrek Run by send me feedback and tell me bugs you found ! Thanks 👍
