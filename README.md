@@ -9,12 +9,13 @@ Download last version of the Shrel Run game! You can [download Shrek Run version
 **• 3.1.1**
 - New Skin : Pekka (from Clash royale)
 - Inbox added
-- bug fixes (enderman song and names can't be same )
-- Game Over screen added (You can see more details about last round you played)
+- bug fixes : enderman song not played fixed and from now names can't be same 
+- Game Over screen : You can see more details about last round you played
+- New settings : enable/disable Vibration 
 
 **• 3.0**
 - Redeeming : you can get shrekial with codes from Kayvan !
-- New King of Shrek Run : now you can see 3 Top persons in Leader board instead of King of Shrek Run
+- New King of Shrek Run : now you can see 3 Top people in Leader board instead of King of Shrek Run
 - New skin from Minecraft! watch out your self !
 - From now Shrek Run has Seasons ! you can read more from leaderboard in-game page !
 
