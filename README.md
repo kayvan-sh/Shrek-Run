@@ -6,6 +6,12 @@ Shrek run new version is now available! Shrek Run version 3.0 with new features 
 - The biggest part of a game is the community of that , I mean you ! You can help Shrek Run by send me feedback and tell me bugs you found ! Thanks 👍
 
 # Change Log
+**• 3.1.1**
+- New Skin : Pekka (from Clash royale)
+- Inbox added
+- bug fixes (enderman song and names cant be same )
+- Game Over screen added (You can see more detail about last round you played)
+
 **• 3.0**
 - Redeeming : you can get shrekial with codes from Kayvan !
 - New King of Shrek Run : now you can see 3 Top persons in Leader board instead of King of Shrek Run
