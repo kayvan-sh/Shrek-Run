@@ -1,11 +1,16 @@
 
 # Download and play
-Download last version of the Shrek Run ! You can [download Shrek Run version 3.1.1](https://drive.google.com/file/d/1saWeCO5stl8vsiTKo9hV6AXmcsYKgUZm/view?usp=drivesdk) and enjoy !
+Season 2 out ! Download and play the new season ! Leaderboard and records reset ! You can [download Shrek Run Season 2](https://drive.google.com/file/d/1saWeCO5stl8vsiTKo9hV6AXmcsYKgUZm/view?usp=drivesdk) and enjoy !
 
 # Notes 
-- The biggest part of a game is the community of that , I mean you ! You can help Shrek Run by send me feedback and tell me bugs you found ! Thanks 👍
+- Please wait for a mid-season Update . That update will improve game and add new skins , features and more ! so wait for that 👍
 
 # Change Log
+**• 3.2**
+- New Season 2 !
+- Bugs solved (Music and vibration)
+- From now you can play with different skins and musics (select music and skin Individually)
+
 **• 3.1.1**
 - New Skin : Pekka (from Clash royale)
 - Inbox added
