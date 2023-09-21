@@ -1,6 +1,6 @@
 
 # Download and play
-Season 2 out ! Download and play the new season ! Leaderboard and records reset ! You can [download Shrek Run Season 2](dvie(https://drive.google.com/file/d/1z5cj6ugt1_Q3_88LR3hly_yvrOOU-PHW/view?usp=drivesdk) and enjoy !
+Season 2 out ! Download and play the new season ! Leaderboard and records reset ! You can [download Shrek Run Season 2](https://drive.google.com/file/d/1z5cj6ugt1_Q3_88LR3hly_yvrOOU-PHW/view?usp=drivesdk) and enjoy !
 
 # Notes 
 - Please wait for a mid-season Update . That update will improve game and add new skins , features and more ! so wait for that 👍
