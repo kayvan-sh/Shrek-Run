@@ -1,11 +1,17 @@
 
 # Download and play
-Season 2 out ! Download and play the new season ! Leaderboard and records reset ! You can [download Shrek Run Season 2](https://drive.google.com/file/d/1z5cj6ugt1_Q3_88LR3hly_yvrOOU-PHW/view?usp=drivesdk) and enjoy !
+Season 2 out ! Download and play the new season ! Leaderboard and records reset ! You can [download Shrek Run Last version](https://drive.google.com/file/d/1-j7sb3pNn_w7O0mkzqn2v-x7TUS-G9qq/view?usp=drivesdk) and enjoy !
 
 # Notes 
-- Please wait for a mid-season Update . That update will improve game and add new skins , features and more ! so wait for that 👍
+- Season 3 will start around October 20 so wait for that !
 
 # Change Log
+**• 3.2.1**
+- Shop : Matrix breakers bundle (including Andrew Tate and Moai)
+- Size reduce : You can download game with 12MB data , but you should download song (Only for fist time)
+- Leaders Screen changes : added Timer and redesign
+- Fixed some bugs 
+
 **• 3.2**
 - New Season 2 !
 - Bugs solved (Music and vibration)
