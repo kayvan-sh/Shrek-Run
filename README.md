@@ -1,11 +1,16 @@
 
 # Download and play
-Season 3 out ! Download and play the new season ! Leaderboard and records reset ! You can [download Shrek Run Last version](https://drive.google.com/file/u/1/d/160-7ZLSwh5ru7C9D8RcZAuXSp68pEQ4E/view?usp=drive_open) and enjoy !
+You can [download Shrek Run Last version](https://drive.google.com/file/d/1CKztFiORVzjp9CDBsHbDAMQn63hnsPe1/view?usp=drivesdk) and enjoy !
 
 # Notes 
-- Season 3 completion update will be available soon!
+- Season 4 will release on DEC 22
 
 # Change Log
+**• 3.3.1**
+- Bugs fixed
+- Halloween event ended
+- Shrek's track re-enabled 
+
 **• 3.3**
 - Shrek Pass
 - Halloween Event
