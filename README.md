@@ -1,11 +1,21 @@
 
 # Download and play
-You can [download Shrek Run Last version](https://drive.google.com/file/d/1CKztFiORVzjp9CDBsHbDAMQn63hnsPe1/view?usp=drivesdk) and enjoy !
+You can [download Shrek Run Last version](https://drive.google.com/file/d/1SojYgaMmY3Np0s8fSbVFgS0ZIBywSD5x/view?usp=drivesdk) and enjoy !
 
 # Notes 
-- Season 4 will release on DEC 22
+- Play Now !
 
 # Change Log
+**• 3.4.1**
+- Gta SA event started
+- Sweet and Smoke are in shop
+- Items tab redesigned
+
+**• 3.4**
+- Season 4 launch !
+- Christmas Event
+- and more ...
+
 **• 3.3.1**
 - Bugs fixed
 - Halloween event ended
