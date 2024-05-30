@@ -49,7 +49,7 @@ You can [download Shrek Run Last version](https://drive.google.com/file/d/1SojYg
 **• 3.0**
 - Redeeming : you can get shrekial with codes from Kayvan !
 - New King of Shrek Run : now you can see 3 Top people in Leader board instead of King of Shrek Run
-- New skin from Minecraft! watch out your self !
+- New skin from Minecraft! watch your self !
 - From now Shrek Run has Seasons ! you can read more from leaderboard in-game page !
 
 **• 2.1**
