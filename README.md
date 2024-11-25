@@ -1,6 +1,6 @@
 
 # Download and play
-You can [download Shrek Run Last version](https://drive.google.com/file/d/1SojYgaMmY3Np0s8fSbVFgS0ZIBywSD5x/view?usp=drivesdk) and enjoy !
+You can [download Shrek Run (zil.ink/shrek_run) and enjoy !
 
 # Notes 
 - Play Now !
