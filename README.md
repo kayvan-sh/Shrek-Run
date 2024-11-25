@@ -1,6 +1,6 @@
 
 # Download and play
-You can [download Shrek Run] (https://zil.ink/shrek_run) and enjoy !
+You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
 
 # Notes 
 - Play Now !
