@@ -1,12 +1,12 @@
 
-#⬇️ Download and play
+# ⬇️ Download and play
 You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
 
 
 
-#📝 Change log
+# 📝 Change log
 <details>
-  <summary><strong>⭕️ 3.4.1 <strong/></summary>
+  <summary><strong>⭕️ 3.4.1</strong></summary>
 
   ### ➕️ Added
   - Gta SA event started
@@ -16,74 +16,154 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   - Items tab redesigned
 
   ### 🔧 Fixed
-  - some visual bugs
+  - Some visual bugs
 </details>
 
-aaaaaaaaaaa
+---
 
-# Change Log
-**• 3.4.1**
-- Gta SA event started
-- Sweet and Smoke are in shop
-- Items tab redesigned
+<details>
+  <summary><strong>🎄 3.4</strong></summary>
 
-**• 3.4**
-- Season 4 launch !
-- Christmas Event
-- and more ...
+  ### ➕️ Added
+  - Season 4 launch!
+  - Christmas Event
+  - And more...
+</details>
 
-**• 3.3.1**
-- Bugs fixed
-- Halloween event ended
-- Shrek's track re-enabled 
+---
 
-**• 3.3**
-- Shrek Pass
-- Halloween Event
-- UI Changes
-- New Biome
-- Bug fixes 
+<details>
+  <summary><strong>🎃 3.3.1</strong></summary>
 
-**• 3.2.1**
-- Shop : Matrix breakers bundle (including Andrew Tate and Moai)
-- Size reduce : You can download game with 12MB data , but you should download song (Only for fist time)
-- Leaders Screen changes : added Timer and redesign
-- Fixed some bugs 
+  ### 🔧 Fixed
+  - Bugs fixed
+  - Halloween event ended
+  - Shrek's track re-enabled
+</details>
 
-**• 3.2**
-- New Season 2 !
-- Bugs solved (Music and vibration)
-- From now you can play with different skins and musics (select music and skin Individually)
+---
 
-**• 3.1.1**
-- New Skin : Pekka (from Clash royale)
-- Inbox added
-- bug fixes : enderman song not played fixed and from now names can't be same 
-- Game Over screen : You can see more details about last round you played
-- New settings : enable/disable Vibration 
+<details>
+  <summary><strong>👹 3.3</strong></summary>
 
-**• 3.0**
-- Redeeming : you can get shrekial with codes from Kayvan !
-- New King of Shrek Run : now you can see 3 Top people in Leader board instead of King of Shrek Run
-- New skin from Minecraft! watch your self !
-- From now Shrek Run has Seasons ! you can read more from leaderboard in-game page !
+  ### ➕️ Added
+  - Shrek Pass
+  - Halloween Event
+  - New Biome
 
-**• 2.1**
-- bugs fixed
-- new settings (enable/disable music)
-- share game with your friend page added
-- info about game
+  ### ✏️ Changed
+  - UI Changes
 
-**• 2.0**
-- New characters (skibidi toilet,amongus)
-- Shrek run leader and online server 
-- Design and bugs fix 
+  ### 🔧 Fixed
+  - Bug fixes
+</details>
 
-**• 1.3.0**
-- Added Musics
-- Added new Characters
-- Now your Record will be saved !
-- Background and stability fixs 
+---
 
-**• 1.2.8**
-- The first version (Beta) !
+<details>
+  <summary><strong>🧠 3.2.1</strong></summary>
+
+  ### ➕️ Added
+  - Matrix Breakers bundle in shop (Andrew Tate and Moai)
+  - Timer added to Leaders screen
+
+  ### ✏️ Changed
+  - Leaders screen redesigned
+  - Game size reduced: base download is 12MB (songs downloaded separately)
+
+  ### 🔧 Fixed
+  - Some bugs
+</details>
+
+---
+
+<details>
+  <summary><strong>🎵 3.2</strong></summary>
+
+  ### ➕️ Added
+  - New Season 2!
+  - Ability to select music and skin individually
+
+  ### 🔧 Fixed
+  - Music and vibration bugs
+</details>
+
+---
+
+<details>
+  <summary><strong>⚔️ 3.1.1</strong></summary>
+
+  ### ➕️ Added
+  - New Skin: Pekka (from Clash Royale)
+  - Inbox feature
+  - Game Over screen with round details
+  - Vibration toggle in settings
+
+  ### 🔧 Fixed
+  - Enderman song bug
+  - Duplicate name issue
+</details>
+
+---
+
+<details>
+  <summary><strong>👑 3.0</strong></summary>
+
+  ### ➕️ Added
+  - Redeem codes for Shrekial (from Kayvan!)
+  - New leaderboard: Top 3 Kings of Shrek Run
+  - New Minecraft skin
+  - Seasonal system introduced (details in leaderboard page)
+</details>
+
+---
+
+<details>
+  <summary><strong>🔧 2.1</strong></summary>
+
+  ### ➕️ Added
+  - Music toggle in settings
+  - Share game with friends page
+  - Game info section
+
+  ### 🔧 Fixed
+  - General bugs
+</details>
+
+---
+
+<details>
+  <summary><strong>🚽 2.0</strong></summary>
+
+  ### ➕️ Added
+  - New characters: Skibidi Toilet, Among Us
+  - Online server and leaderboard
+
+  ### ✏️ Changed
+  - Design improvements
+
+  ### 🔧 Fixed
+  - Bug fixes
+</details>
+
+---
+
+<details>
+  <summary><strong>🎶 1.3.0</strong></summary>
+
+  ### ➕️ Added
+  - New music tracks
+  - New characters
+  - Record saving feature
+
+  ### 🔧 Fixed
+  - Background and stability issues
+</details>
+
+---
+
+<details>
+  <summary><strong>🧪 1.2.8</strong></summary>
+
+  ### 🚀 First Beta Release!
+</details>
