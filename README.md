@@ -1,15 +1,32 @@
 ![Season 5](https://minio-tosanscp-2ytxtou5.darkube.app/zilink/resized/800x/81100e6e71d4f8eb454a7cff7278a78f.jpg)
-##Season 5 is out !
+## Season 5 is out !
 Join SpongeBob and Crash bandicoot in new Season 5!
 
 # ⬇️ Download and play
-You can [download Shrek Run](https://www.dl.dropboxusercontent.com/scl/fi/2un68bdget38cy0l5y9pt/shrekrun-v350.apk?rlkey=cuusvrnpg856cw4uxia1f87ha&st=19vnprsb&dl=0) and enjoy !
+You can [download Shrek Run](https://www.dl.dropboxusercontent.com/scl/fi/2un68bdget38cy0l5y9pt/shrekrun-v350.apk?rlkey=cuusvrnpg856cw4uxia1f87ha&st=19vnprsb&dl=0) for free and enjoy !
 
 
 
 
 
 # 📝 Change log
+<details>
+  <summary><strong>🧽 3.5.0</strong></summary>
+
+  ### ➕️ Added
+  - Shrek Pass : SpongeBob and Crash Bandicoot
+  - New Shrek Pass quests 
+  - Summer event 
+  - Language settings (En and Fa)
+
+  ### ✏️ Changed
+  - New design with leaderboard tab
+
+  ### 🔧 Fixed
+  - Cards size problem 
+  - and other issues
+</details<
+
 <details>
   <summary><strong>🏀 3.4.1</strong></summary>
 
