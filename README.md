@@ -1,15 +1,18 @@
 
-# Download and play
+## Download and play
 You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
 
-# Notes 
-- Play Now !
 
+
+## Change log
 <details>
-  <summary>Change log</summary>
-
-  Hidden content goes here. You can include **Markdown** inside this block.
+  <summary>** 3.4.1**</summary>
+- Gta SA event started
+- Sweet and Smoke are in shop
+- Items tab redesigned
 </details>
+
+aaaaaaaaaaa
 
 # Change Log
 **• 3.4.1**
