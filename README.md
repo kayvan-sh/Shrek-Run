@@ -4,9 +4,11 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
 
 
 
+
+
 # 📝 Change log
 <details>
-  <summary><strong>⭕️ 3.4.1</strong></summary>
+  <summary><strong>🏀 3.4.1</strong></summary>
 
   ### ➕️ Added
   - Gta SA event started
@@ -19,8 +21,6 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   - Some visual bugs
 </details>
 
----
-
 <details>
   <summary><strong>🎄 3.4</strong></summary>
 
@@ -30,8 +30,6 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   - And more...
 </details>
 
----
-
 <details>
   <summary><strong>🎃 3.3.1</strong></summary>
 
@@ -40,8 +38,6 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   - Halloween event ended
   - Shrek's track re-enabled
 </details>
-
----
 
 <details>
   <summary><strong>👹 3.3</strong></summary>
@@ -58,8 +54,6 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   - Bug fixes
 </details>
 
----
-
 <details>
   <summary><strong>🧠 3.2.1</strong></summary>
 
@@ -75,8 +69,6 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   - Some bugs
 </details>
 
----
-
 <details>
   <summary><strong>🎵 3.2</strong></summary>
 
@@ -87,8 +79,6 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   ### 🔧 Fixed
   - Music and vibration bugs
 </details>
-
----
 
 <details>
   <summary><strong>⚔️ 3.1.1</strong></summary>
@@ -104,8 +94,6 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   - Duplicate name issue
 </details>
 
----
-
 <details>
   <summary><strong>👑 3.0</strong></summary>
 
@@ -115,8 +103,6 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   - New Minecraft skin
   - Seasonal system introduced (details in leaderboard page)
 </details>
-
----
 
 <details>
   <summary><strong>🔧 2.1</strong></summary>
@@ -129,8 +115,6 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   ### 🔧 Fixed
   - General bugs
 </details>
-
----
 
 <details>
   <summary><strong>🚽 2.0</strong></summary>
@@ -146,8 +130,6 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   - Bug fixes
 </details>
 
----
-
 <details>
   <summary><strong>🎶 1.3.0</strong></summary>
 
@@ -159,8 +141,6 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
   ### 🔧 Fixed
   - Background and stability issues
 </details>
-
----
 
 <details>
   <summary><strong>🧪 1.2.8</strong></summary>
