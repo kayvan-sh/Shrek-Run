@@ -27,14 +27,14 @@ You can [download Shrek Run](https://www.dl.dropboxusercontent.com/scl/fi/2un68b
 <details>
   <summary><strong>🏀 3.4.1</strong></summary>
 
-  ### Added
+  ### ➕️ Added
   - Gta SA event started
   - Sweet and Smoke are in shop
 
-  ### Changed
+  ### ✏️ Changed
   - Items tab redesigned
 
-  ### Fixed
+  ### 🔧 Fixed
   - Some visual bugs
 </details>
 
