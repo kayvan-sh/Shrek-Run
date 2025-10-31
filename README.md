@@ -8,11 +8,11 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
 <details>
   <summary>** 3.4.1**</summary>
 
-  ##Added
+  ### Added
   - Gta SA event started
   - Sweet and Smoke are in shop
 
-  ##Changed
+  ### Changed
   - Items tab redesigned
 
 </details>
