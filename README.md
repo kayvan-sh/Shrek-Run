@@ -1,15 +1,20 @@
 
-## Download and play
+# Download and play
 You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
 
 
 
-## Change log
+# Change log
 <details>
   <summary>** 3.4.1**</summary>
+
+  ##Added
   - Gta SA event started
   - Sweet and Smoke are in shop
+
+  ##Changed
   - Items tab redesigned
+
 </details>
 
 aaaaaaaaaaa
