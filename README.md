@@ -25,7 +25,7 @@ You can [download Shrek Run](https://www.dl.dropboxusercontent.com/scl/fi/2un68b
   ### 🔧 Fixed
   - Cards size problem 
   - and other issues
-</details<
+</details>
 
 <details>
   <summary><strong>🏀 3.4.1</strong></summary>
