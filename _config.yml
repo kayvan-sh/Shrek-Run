@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+theme: 
+   name: "jekyll-theme-minimal"
+   logo: "imgs/logo.png"
 title: Shrek Run
 description: A thrilling android game !
