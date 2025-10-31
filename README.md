@@ -6,9 +6,6 @@ Join SpongeBob and Crash bandicoot in new Season 5!
 You can [download Shrek Run](https://www.dl.dropboxusercontent.com/scl/fi/2un68bdget38cy0l5y9pt/shrekrun-v350.apk?rlkey=cuusvrnpg856cw4uxia1f87ha&st=19vnprsb&dl=0) for free and enjoy !
 
 
-
-
-
 # 📝 Change log
 <details>
   <summary><strong>🧽 3.5.0</strong></summary>
