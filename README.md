@@ -8,18 +8,33 @@ You can [download Shrek Run](https://www.dl.dropboxusercontent.com/scl/fi/2un68b
 
 # 📝 Change log
 
+<details>
+  <summary><strong>🧽 3.5.0</strong></summary>
 
+  ### ➕️ Added
+  - Shrek Pass : SpongeBob and Crash Bandicoot
+  - New Shrek Pass quests 
+  - Summer event 
+  - Language settings (En and Fa)
+
+  ### ✏️ Changed
+  - New design with leaderboard tab
+
+  ### 🔧 Fixed
+  - Cards size problem 
+  - and other issues
+</details>
 <details>
   <summary><strong>🏀 3.4.1</strong></summary>
 
-  ### ➕️ Added
+  ### Added
   - Gta SA event started
   - Sweet and Smoke are in shop
 
-  ### ✏️ Changed
+  ### Changed
   - Items tab redesigned
 
-  ### 🔧 Fixed
+  ### Fixed
   - Some visual bugs
 </details>
 
