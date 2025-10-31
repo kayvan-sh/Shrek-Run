@@ -5,6 +5,12 @@ You can [download Shrek Run](https://zil.ink/shrek_run) and enjoy !
 # Notes 
 - Play Now !
 
+<details>
+  <summary>Change log</summary>
+
+  Hidden content goes here. You can include **Markdown** inside this block.
+</details>
+
 # Change Log
 **• 3.4.1**
 - Gta SA event started
