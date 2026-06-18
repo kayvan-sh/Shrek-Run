@@ -1,4 +1,3 @@
-
 ## Season 6 is out !
 The biggest update ever!
 
@@ -10,6 +9,7 @@ You can [download Shrek](https://t.me/moshreks/2609) for free and enjoy !
 <details>
   <summary><strong>💎 3.6.0</strong></summary>
   <strong>Season 6</strong>
+  
   ### ➕️ Added
   - Shrek Pass : PussInBoots and Peter Griffin
   - Accounts amd Profiles
