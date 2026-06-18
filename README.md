@@ -1,13 +1,33 @@
-![Season 5](https://minio-tosanscp-2ytxtou5.darkube.app/zilink/resized/800x/81100e6e71d4f8eb454a7cff7278a78f.jpg)
-## Season 5 is out !
-Join SpongeBob and Crash bandicoot in new Season 5!
+
+## Season 6 is out !
+The biggest update ever!
 
 # ⬇️ Download and play
-You can [download Shrek Run](https://www.dl.dropboxusercontent.com/scl/fi/2un68bdget38cy0l5y9pt/shrekrun-v350.apk?rlkey=cuusvrnpg856cw4uxia1f87ha&st=19vnprsb&dl=0) for free and enjoy !
+You can [download Shrek](https://t.me/moshreks/2609) for free and enjoy !
 
 
 # 📝 Change log
+<details>
+  <summary><strong>💎 3.6.0</strong></summary>
+  <strong>Season 6</strong>
+  ### ➕️ Added
+  - Shrek Pass : PussInBoots and Peter Griffin
+  - Accounts amd Profiles
+  - Styles and Lores for characters
+  - New character : Golzar (with two styles)
+  - Two new bundles : Patrick and Golzar
+  - 6 new locations !
+  - More Languages (French and German)
+  - and more ...
 
+  ### ✏️ Changed
+  - New leaderboard tab design
+  - Game logic redesign
+  - Game Over and Pause screen redesign
+
+  ### 🔧 Fixed
+  - some small bugs
+</details>
 <details>
   <summary><strong>🧽 3.5.0</strong></summary>
 
