@@ -1,14 +1,142 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+    </style>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title>Shrek Run</title>
   <link rel="stylesheet" href="styles.css">
 </head>
   <body>
-    <h1>Under Construction...</h1>
-    <p>Download latest version fromn <a href="https://github.com/kayvan-sh/Shrek-Run/releases/latest">Releases page.</a>.</p>
+    <header class="nav">
+        <div class="titlelogo">
+            <img style="height: auto; width: 60px;" src="assets/logo.png"/>
+            <h1 >Shrek Run</h1>
+        </div>
+        <div class="navbuttons">
+            <a class="navitems" href="https://github.com/kayvan-sh/Shrek-Run/releases/latest">RELEASES</a>
+            <a class="navitems" href="#screenshots">SCREENSHOTS</a>
+            <a class="navitems" href="#changelog">CHANGELOG</a>
+            <a class="navitems" href="#about">ABOUT</a>
+            <a class="navitems" href="fa">FA</a>
+        </div>
+        <a class="smallbtn" href="https://github.com/kayvan-sh/Shrek-Run/releases/latest">DOWNLOAD</a>
+    </header>
 
-    <script src="scrips.js"></script>
+    <div class="hero">
+        <img width="100%" src="assets/bg.png"/>
+        <div class="overlay">
+            <h1 class="greath1">Run. Survive. Compete.</h1>
+            <p class="center">Go Beyond the Swamp with ShrekRun Season 6!</p>
+
+            <div class="buttons">
+                <a class="btn2" href="https://github.com/kayvan-sh/Shrek-Run/releases/latest">Download</a>
+                <a class="btn" href="#screenshots">Screenshots</a>
+                <a class="btn" href="#changelog">Changelog</a>
+            </div>
+            
+            <div class="features">
+                <div class="feature">
+                    <img style="width: 40%; height: auto;" src="assets/bolt.svg"/>
+                    <h2 class="featuretext">FAST-PACED</h2>
+                    <p style="text-align: center;">Intense gameplay that keeps you on edge.</p>
+                </div>
+                <div class="feature">
+                    <img style="width: 40%; height: auto;" src="assets/map.svg"/>
+                    <h2 class="featuretext">DYNAMIC WORLD</h2>
+                    <p style="text-align: center;">Run through diffrent worlds.</p>
+                </div>
+                <div class="feature">
+                    <img style="width: 40%; height: auto;" src="assets/cup.svg"/>
+                    <h2 class="featuretext">COMPETETION</h2>
+                    <p style="text-align: center;">Compete with other players and conquer the leaderboard.</p>
+                </div>
+                <div class="feature">
+                    <img style="width: 40%; height: auto;" src="assets/custom.svg"/>
+                    <h2 class="featuretext">CUSTOMIZEABLE</h2>
+                    <p style="text-align: center;">Unlock unique characters from every universe.</p>
+                </div>
+            </div>
+
+            <section id="screenshots">
+            <div class="screenshots">
+                <div class="screenshot_images">
+                    <img id="imgr2" class="scrimg_r2" src="assets/shot1.png"/>
+                    <img id="imgr" class="scrimg_r" src="assets/shot2.jpg"/>
+                    <img id="img" class="scrimg" src="assets/shot3.jpg"/>
+                    <img id="imgl" class="scrimg_l" src="assets/shot4.jpg"/>
+                    <img id="imgl2" class="scrimg_l2" src="assets/shot5.jpg"/>
+                </div>
+                <div>
+                    <h3>Screenshots</h3>
+                    <p>Explore the latest features through screenshots.</p>
+                </div>
+            </div>
+            </section>
+
+            <section id="changelog">
+                <div class="changelog">
+                    <div style="display:flex; flex-direction: column; align-items: center;">
+                        <h3>Changelog</h3>
+                        <p style="margin-bottom: 0px;">See the sreenshots of the latest added features.</p>
+                        <a class="btn" href="https://github.com/kayvan-sh/Shrek-Run/releases">See Full Changelog</a>
+                    </div>
+                    <div class="changelog_items">
+                        <div class="changelog_item">
+                            <a class="btn" href="https://github.com/kayvan-sh/Shrek-Run/releases/tag/stable">3.6.0</a>   
+                            <div style="display:flex; flex-direction: column;">
+                                <h2 style="margin:5px;" class="featuretext">Season 6 : Beyond The Swamp</h2>
+                                <p>Accounts,New worlds,two new bundles,German and French Languages and much more...</p>
+                            </div>
+                        </div>
+                        <div class="changelog_item">
+                            <a class="btn">3.5.0</a>   
+                            <div style="display:flex; flex-direction: column;">
+                                <h2 style="margin:5px;" class="featuretext">Season 5</h2>
+                                <p>New ShrekPass,new Quests,Languages and much more...</p>
+                            </div>
+                        </div>
+                        <div class="changelog_item">
+                            <a class="btn">3.4.1</a>   
+                            <div style="display:flex; flex-direction: column;">
+                                <h2 style="margin:5px;" class="featuretext">GTA SA Event</h2>
+                                <p>GTA San Andreas Event and New Bundle and Skins.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </section>
+
+            <section id="about">
+                <div class="about">
+                    <img style="width: 30%; height: auto;" src="assets/logo_saturn.png"/>
+                    <div>
+                        <h3>About</h3>
+                        <p style="text-align: center;">Shrek Run is a game developed by Saturn Games and is based on Shrek and Shrek Company.<br/>This is an unofficial project and is not affiliated with,endorsed by,or sponsored by DreamWorks Animation.</p>
+                        <div class="socialmedia">
+                            <img id="itch" class="socialmedia_item" src="assets/itch.svg"> 
+                            <img id="insta" class="socialmedia_item" src="assets/insta.svg"/>
+                            <img id="x" class="socialmedia_item" src="assets/x.svg"/>
+                            <img id="yt" class="socialmedia_item" src="assets/yt.svg"/>
+                        </div>
+                    </div>
+                </div>
+                </section>
+
+            <div class="footer">
+                <div></div>
+                <p>© 2026 Shrek Run. All rights reserved.</p>
+                <img id="up" src="assets/up.svg"/>
+            </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+    
+    <script src="scripts.js"></script>
   </body>
 </html>
