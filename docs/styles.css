@@ -1,6 +1,9 @@
 html{
     scroll-behavior: smooth;
 }
+*{
+    box-sizing: border-box;
+}
 body{
     background-color: #10161F;
     margin: 0%;
@@ -8,22 +11,26 @@ body{
 p{
     margin: 0;
     color: aqua;
+    font-size: clamp(.4rem,2.5vw,1rem);
+    overflow-wrap: break-word;
 }
 h1{
     margin: 0;
     color: rgb(2, 172, 2);
     color: white;
     text-align: center;
+    white-space: nowrap;
 }
 h2{
     color: rgb(2, 172, 2);
+    font-size: clamp(1.5rem,3vw,2rem);
 }
 h3{
     margin: 0;
     color: rgb(2, 172, 2);
     color: white;
-    font-size: 60px;
     text-align: center;
+    font-size: clamp(2.5rem,7vw,5rem);
 }
 a{
     margin: 0;
@@ -35,15 +42,31 @@ a{
     top:0;
     background-color: #0a002c00;
     background: linear-gradient(0deg,rgba(16, 22, 31,0) 0%,rgba(0, 0, 0, 0.35) 25%);
-    height: 70px;
+    height: 10%;
     width: 100%;
+    min-width: none;
     display: flex;
-    padding: 0 0;
+    padding: 1% 0%;
     backdrop-filter: blur(10px);
     align-items: center;
     justify-content: space-between;
     z-index: 1000;
 }
+.scrolled_nav{
+    background: linear-gradient(0deg,rgba(16, 22, 31,0) 0%,rgba(0, 0, 0, 0.85) 25%);
+}
+.navbuttons{
+    display: flex;
+    justify-content: center;
+    orientation: landscape;
+    align-items: center;
+    margin-right: 10px;
+}
+.logo{
+    height: auto;
+    width: 60px;
+}
+
 .card{
     position: absolute;
     background-color:rgb(16, 22, 31);
@@ -74,10 +97,15 @@ a{
     border-radius: 40px;
     margin: 10px;
 }
-.featuretext{
+.featuretext,.changelogtext{
     color: white;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: clamp(.9rem,2vw,2rem);
+}
+.changelogtext{
+    font-size: clamp(1.1rem,2vw,2rem);
+    margin: 0;
 }
 #screenshots,#changelog,#about{
     scroll-margin-top: 100px;
@@ -90,11 +118,6 @@ a{
     align-items: center;
     justify-content: center ;
     flex-direction: row;
-}
-@media (max-width: 768px){
-    .screenshots{
-        flex-direction: column-reverse;
-    }
 }
 .screenshot_images{
     display: flex;
@@ -122,7 +145,7 @@ a{
     aspect-ratio: 9/20;
     object-fit: cover;
     z-index: 2;
-    transform: translateX(200px) scale(0.8);
+    transform: translateX(40%) scale(0.8);
 }
 .scrimg_r,.scrimg_r2{
     transition: transform .3s ease, opacity .3s ease;
@@ -134,13 +157,20 @@ a{
     aspect-ratio: 9/20;
     object-fit: cover;
     z-index: 2;
-    transform: translateX(-200px) scale(0.8);
+    transform: translateX(-40%) scale(0.8);
 }
 .scrimg_r2,.scrimg_l2{
     opacity: 0;
     z-index: 1;
 }
-
+@media (max-width: 768px){
+    .screenshots{
+        flex-direction: column-reverse;
+    }
+    .scrimg,.scrimg_r2,.scrimg_r,.scrimg_l,.scrimg_l2{
+        width: 80%;
+    }
+}
 .changelog{
     margin-top: 50px;
     display: flex;
@@ -153,13 +183,16 @@ a{
 @media (max-width: 768px){
     .changelog{
         flex-direction: column;
+        gap:30px;
     }
+
 }
 .changelog_items{
     display: flex;
     flex-direction: column;
 }
 .changelog_item{
+    align-items: center;
     display: flex;
     flex-direction: row;
     margin: 5px;
@@ -174,12 +207,42 @@ a{
     justify-content: center ;
     flex-direction: row;
 }
+.saturn{
+    width: 30%;
+}
 @media (max-width: 768px){
     .about{
         flex-direction: column;
     }
+    .nav{
+        height: 5%;
+    }
+    .logo{
+        width: 30px;
+    }
+    .title{
+        font-size: medium;
+        
+    }
+    .navbuttons{
+        display: none;
+    }
+    .features{
+        width: fit-content;
+        display: grid;
+        grid-template-columns: repeat(2,minmax(0,1fr));
+        flex-direction: column;
+    }
+    .buttons{
+        flex-direction: column;
+    }
+    .about{
+        gap: 10px;
+    }
+    .saturn{
+        width: 60%;
+    }
 }
-
 .footer{
     margin-top: 100px;
     display: flex;
@@ -194,13 +257,7 @@ a{
     orientation: landscape;
     align-items: center;
 }
-.navbuttons{
-    display: flex;
-    justify-content: center;
-    orientation: landscape;
-    align-items: center;
-    margin-right: 10px;
-}
+
 .titlelogo{
     display: flex;
     justify-content: left;
@@ -237,8 +294,7 @@ a{
     color: white;
     margin-top: 10%;
     width: 100%;
-    font-size: 80px;
-}
+    font-size: clamp(2rem,7vw,5rem);}
 .socialmedia{
     display: flex;
     justify-content: center;
@@ -257,12 +313,15 @@ a{
     font-size: small;
 }
 .btn{
+    height: fit-content;
+    display: inline-block;
     border: 2px solid rgb(5, 199, 5);
     border-radius: 20px 5px 20px 5px;
     padding: 10px;
     padding-left: 30px;
     padding-right: 30px;
     text-decoration: none;
+    text-align: center;
     margin: 10px;
     font-size: x-large;
 }

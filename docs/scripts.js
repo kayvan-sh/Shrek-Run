@@ -24,3 +24,9 @@ document.getElementById("itch").onclick= () => {
 document.getElementById("up").onclick= () => {
     window.scrollTo({top:0,behavior:"smooth"});
 };
+
+const header = document.querySelector("header");
+window.addEventListener("scroll",()=>{
+    if(window.scrollY>200) header.classList.add("scrolled_nav")
+    else header.classList.remove("scrolled_nav")
+})
