@@ -47,7 +47,7 @@ a{
     min-width: none;
     display: flex;
     padding: 1% 0%;
-    backdrop-filter: blur(10px);
+    /*backdrop-filter: blur(10px);*/
     align-items: center;
     justify-content: space-between;
     z-index: 1000;
