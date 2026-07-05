@@ -27,6 +27,6 @@ document.getElementById("up").onclick= () => {
 
 const header = document.querySelector("header");
 window.addEventListener("scroll",()=>{
-    if(window.scrollY>50) header.classList.add("scrolled_nav")
+    if(window.scrollY>200) header.classList.add("scrolled_nav")
     else header.classList.remove("scrolled_nav")
 })
