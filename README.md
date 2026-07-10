@@ -1,8 +1,8 @@
 ## Season 6 is out !
 The biggest update ever!
 
-# ⬇️ Download and play
-You can [download Shrek](https://t.me/moshreks/2609) for free and enjoy !
+# ⬇️ Shrek Run's Web page
+More info in our [Web Pgae](https://kayvan-sh.github.io/Shrek-Run).
 
 
 # 📝 Change log
