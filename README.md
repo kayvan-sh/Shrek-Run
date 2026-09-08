@@ -1,4 +1,4 @@
-## Season 6 is out !
+## Season 6 is out ! 🐈
 The biggest update ever!
 
 # ⬇️ Shrek Run's Web page
